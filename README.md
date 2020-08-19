@@ -1,5 +1,5 @@
-RADAR corner reflector
-======================
+RADAR corner reflector - 77GHz, 1 square meter
+==============================================
 
 <img src="https://github.com/OpenTestJig/cornerreflector/blob/master/cornerreflector-v2-rendering.jpg">
 
