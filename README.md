@@ -7,3 +7,9 @@ RADAR corner reflector - 77GHz, 1 square meter
 * simple and cheap design
 * PCB based; order at your favourite PCB house
 * some assembly required
+
+License
+-------
+
+The design is released under the OSHW 1.0 license as defined
+by [https://www.oshwa.org/definition/].
