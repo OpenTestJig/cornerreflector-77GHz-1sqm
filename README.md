@@ -23,19 +23,19 @@ Produced and works ok. Some assembly required. Supports mounting via a solderabl
 
 ## Assembly instructions
 
-1) Gather parts: 1 PCB, flat file, plier, soldering iron & solder. If mouting bracket is needed: 1 M8 NUT, 1 M8 screw.
+1) Gather parts: 1x PCB, flat file, plier, soldering iron & solder. If mouting bracket is needed: 1x tinned M8 NUT & tinned M8 screw.
 
 2) Break boards into 9 pieces.
 
-3) Discard the 4 tiny pieses.
+3) Discard the 4 tiny pieces.
 
 4) Carefully file off the outer perforated edges of the main 3 reflector boards.
 
-5) Test-wise assemble the three main pieces into a reflector and check that all reflective plains are rectangular to each other.
+5) Test-wise assemble the three main pieces into a reflector and check that all reflective planes are rectangular to each other.
 
 6) Place loosely assembled onto corner of a cube.
 
-7) Solder all mechanical overhangs.
+7) Solder all mechanical overhangs on the outside of the reflector.
 
 8) Carefully solder inner edges with minimal amount of solder, as perfect as possible.
 
@@ -55,11 +55,11 @@ E) and solder the nut to the pieces.
 
 ## Proposed improvements for next version
 
-* Perforation vias should be without copper. Thus only mechanical holes, not vias.
+* Perforation vias should be without copper (only mechanical holes, not vias).
 * Copper planes should be removed from perforation areas.
-* Perforations should be aligned across one axis/line.
+* Perforations across each dimension should be aligned across one line. (Easier to break off.)
 * Mounting pieces should be thinned towards the end.
-* Perforations should be moved / thinned so that less edge-filing is needed.
+* Perforations should be moved / reduced such that no edge-filing is needed.
 
 License
 -------
